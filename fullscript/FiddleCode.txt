@@ -1,0 +1,342 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Isaac - Fullscript</title>
+<style>
+body {
+	width: 100%;
+  height: 100%;
+  font-family: Arial;
+  margin: 0;
+  padding: 0;
+}
+</style>
+</head>
+
+<body>
+	<table cellpadding="0" cellspacing="0" border="0" style="width: 600px;" >
+  <!-- Head Logo & Title-->
+    <tr>
+      <td cellpadding="0" cellspacing="0" border="0" style="background-color: #88b146; padding: 30px 0; text-align: center;">
+      <img src="https://fullscript.com/wp-content/uploads/emails/images/fs-logo-white.png" alt="Fullscript_Logo">
+    </td>
+    </tr>
+    
+    <tr>
+      <td cellpadding="0" cellspacing="0" border="0" style="background-color: #88b146; text-align: center; color: #FFFFFF; font-size: 26px; padding-bottom: 30px;">Tips to stay healthy during self-isolation</td>
+    </tr>
+    
+    <!-- Head Photo -->
+    <tr>
+      <td cellpadding="0" cellspacing="0" border="0">
+        <img src="https://fullscript.com/wp-content/uploads/emails/images/PatientComms_Hero_Isolation.png" alt="view_wellness_apps" style="width: 100%;">
+      </td>
+    </tr>
+    
+    <!-- Intro Text -->
+    <tr>
+      <td cellpadding="0" cellspacing="0" border="0" style="color: #404F5E; font-size: 14px; padding: 15px 30px 30px; line-height: 1.5; font-size: 14px;">
+        <p>Self-isolation can be tough. People around the world, all with different backgrounds and life experiences, are feeling the same sense of disconnection, anxiety, and uncertainty that comes with isolation.</p>
+        <p>This unprecedented challenge also offers unique opportunities, like finally carving out some time for self-care. We've rounded up a series of lifestyle tips that you can practice to maintain and even improve your well-being, all while passing the time.</p>
+      </td>
+    </tr>
+    
+    <!-- Reading Button-->
+    <tr>
+      <td cellpadding="0" cellspacing="0" border="0" style="padding-bottom: 50px;">
+        <table align="center" cellpadding="0" cellspacing="0" border="0" width="250" height="65">
+					<tr>
+						<td align="center" bgcolor="#783f67" style="">
+							<a href="https://fullscript.com" style="display:block; height:65px; line-height:65px; color: #FFFFFF; font-size: 18px; text-decoration: none;">Keep Reading</a>
+					</td>
+				</tr>
+			</table>
+     </td>
+    </tr>
+    
+    <!-- Apps Title -->
+    <tr>
+      <td cellpadding="0" cellspacing="0" border="0" style="background-color: #f5f7fa; color: #404F5E; text-align: left; padding: 25px;">
+        <h2>Wellness apps for a little extra self-care</h2>
+        <p style="font-size: 14px; line-height: 1.5;">We’re sharing some popular wellness apps that come highly recommended by practitioners. Whether 	it's to take you on an at-home meditation retreat or shed light on your sleep habits, these apps have your back.</p>
+      </td>
+    </tr>
+    
+    <!-- Apps -->
+<tr>
+  <td cellpadding="0" cellspacing="0" border="0">
+    <table cellpadding="0" cellspacing="0" border="0" style="background-color: #f5f7fa; line-height: 1.5; padding-bottom: 50px;">
+      <tr>
+        <td style="padding-top: 30px; padding-left:25px; padding-right: 10px;"><img src="https://fullscript.com/wp-content/uploads/emails/images/headspace_icon.png" alt="Headspace_Icon" style="height: 80px; width: 80px;">
+        </td>
+        <td style="padding-left: 70px; padding-right: 20px;">
+          <p style="color: #404F5E; font-weight: 600;">Headspace</p>
+          <p style="font-size: 14px; color: #404F5E;">With millions of users in over 190 countries, Headspace is a meditation app on a mission to improve the health and happiness of the world.</p>
+          <a href="https://www.headspace.com" style="color: #88b146;"><span style="font-size: 14px; color: #88b146;">Read More</span></a>
+         </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+    
+<tr>
+  <td cellpadding="0" cellspacing="0" border="0">
+    <table cellpadding="0" cellspacing="0" border="0" style="background-color: #f5f7fa; line-height: 1.5; padding-bottom: 50px;">
+      <tr>
+        <td style="padding-top: 50px; padding-left:25px; padding-right: 10px;"><img src="https://fullscript.com/wp-content/uploads/emails/images/MyFitnessPal_Logo.png" alt="MyFitPal_Icon" style="height: 80px; width: 80px;">
+        </td>
+        <td style="padding-left: 70px; padding-right: 20px;">
+          <p style="color: #404F5E; font-weight: 600;">MyFitnessPal</p>
+          <p style="font-size: 14px; color: #404F5E;">MyFitnessPal makes it easy to log the meals you eat and the activities you do as quickly as possible for diet tracking.</p>
+          <a href="https://www.myfitnesspal.com/" style="color: #88b146;"><span style="font-size: 14px; color: #88b146;">Read More</span></a>
+         </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+
+
+<tr>
+  <td cellpadding="0" cellspacing="0" border="0">
+    <table cellpadding="0" cellspacing="0" border="0" style="background-color: #f5f7fa; line-height: 1.5; padding-bottom: 50px;">
+      <tr>
+        <td style="padding-top: 50px; padding-left:25px; padding-right: 10px;"><img src="https://fullscript.com/wp-content/uploads/emails/images/Oura-ring-logo.png" alt="Oura_Icon" style="height: 80px; width: 80px;">
+        </td>
+        <td style="padding-left: 70px; padding-right: 20px;">
+          <p style="color: #404F5E; font-weight: 600;">Oura Ring</p>
+          <p style="font-size: 14px; color: #404F5E;">Using advanced sensor technology, the Oura Ring provides detailed feedback on sleep, activity, and readiness to help you meet your health goals.</p>
+          <a href="https://ouraring.com" style="color: #88b146;"><span style="font-size: 14px; color: #88b146;">Read More</span></a>
+         </td>
+      </tr>
+    </table>
+  </td>
+</tr>
+    
+ <!-- See More Button -->
+    <tr>
+      <td cellpadding="0" cellspacing="0" border="0" style="padding-bottom: 50px; background-color: #f5f7fa;">
+        <table align="center" cellpadding="0" cellspacing="0" border="0" width="250" height="65" style="">
+					<tr>
+						<td align="center" bgcolor="#783f67">
+							<a href="https://fullscript.com" style="display:block; height:65px; line-height:65px; color: #FFFFFF; font-size: 18px; text-decoration: none;">See More</a>
+			     </td>
+		     </tr>
+	     </table>
+      </td>
+     </tr>   
+    
+ <!-- Footer -->
+<tr>
+  <td cellpadding="0" cellspacing="0" border="0" style=" background-color: #3f4e5e; color: #FFFFFF; text-align: center;">
+    <h2 style="margin: 30px 0;">Ready to tackle your wellness goals?</h2>
+  </td>
+ </tr>
+
+    <tr>
+      <td cellpadding="0" cellspacing="0" border="0" style="background-color: #3f4e5e;">
+        <table align="center" cellpadding="0" cellspacing="0" border="0" width="350" height="65">
+					<tr>
+						<td align="center" bgcolor="#88b146">
+							<a href="https://fullscript.com" style="display:block; height:65px; line-height:65px; color: #FFFFFF; font-size: 18px; text-decoration: none;">Log in to your Fullscript account</a>
+			     </td>
+		     </tr>
+	     </table>
+      </td>
+     </tr>     
+
+  <tr>
+      <td cellpadding="0" cellspacing="0" border="0" style="background-color: #3f4e5e; padding: 30px 0 30px 200px;">
+        <table cellpadding="0" cellspacing="0" border="0">
+          <tr>
+            <td style="padding: 0 12px;"><a href="https://www.facebook.com/"><img src="https://fullscript.com/wp-content/uploads/emails/images/facebook-white.png" alt="Facebook Link" style="height: 30px; width: 30px;"></a></td>
+
+            <td style="padding: 0 12px;"><a href="https://twitter.com/"><img src="https://fullscript.com/wp-content/uploads/emails/images/twitter-white.png" alt="Twitter Link" style="height: 30px; width: 30px;"></a></td>
+
+            <td style="padding: 0 12px;"><a href="https://www.instagram.com/"><img src="https://fullscript.com/wp-content/uploads/emails/images/instagram-white.png" alt="Instagram Link" style="height: 30px; width: 30px;"></a></td>
+
+            <td style="padding: 0 12px;"><a href="https://www.pinterest.com/"><img src="https://fullscript.com/wp-content/uploads/emails/images/pinterest-white.png" alt="Pinterest Link" style="height: 30px; width: 30px;"></a></td>
+          </tr>
+        </table>
+      </td>
+    </tr>
+    <!-- Disclaimer -->
+    <tr>
+      <td style="font-size: 9px; font-color: #404F5E; line-height: 2.5; padding: 30px 15px; text-align: left;">*The statements made herein have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat,
+        cure, or prevent disease. If you have any concerns about your own health, you should always consult with a physician or healthcare professional.</td>
+    </tr>
+    
+  </table>  
+</body>
+</html>
+
+
+
+<!--
+
+Styles:
+Blue color (footer): #3f4e5e
+Green color: #88b146
+Gray color (copy background): #f5f7fa
+Purple color (CTA): #783f67
+Font family: Arial
+Header font size: 26px
+Body font size: 14px
+Disclaimer font size (at bottom): 9px
+Font color: #404F5E
+h1 size: 27px
+h2 size: 16px
+
+Images:
+Fullscript logo: https://fullscript.com/wp-content/uploads/emails/images/fs-logo-white.png
+Header (lady): https://fullscript.com/wp-content/uploads/emails/images/PatientComms_Hero_Isolation.png
+Headspace icon: https://fullscript.com/wp-content/uploads/emails/images/headspace_icon.png
+Fitness pal icon: https://fullscript.com/wp-content/uploads/emails/images/MyFitnessPal_Logo.png
+Oura icon: https://fullscript.com/wp-content/uploads/emails/images/Oura-ring-logo.png
+Facebook icon: https://fullscript.com/wp-content/uploads/emails/images/facebook-white.png
+Twitter icon: https://fullscript.com/wp-content/uploads/emails/images/twitter-white.png
+Instagram icon: https://fullscript.com/wp-content/uploads/emails/images/instagram-white.png
+Pinterest icon: https://fullscript.com/wp-content/uploads/emails/images/pinterest-white.png
+
+Copy:
+Self-isolation can be tough. People around the world, all with different backgrounds and life experiences, are feeling the same sense of disconnection, anxiety, and uncertainty that comes with isolation.
+
+This unprecedented challenge also offers unique opportunities, like finally carving out some time for self-care. We’ve rounded up a series of lifestyle tips that you can practice to maintain and even improve your well-being, all while passing the time.
+
+Wellness apps for a little extra self-care
+We’re sharing some popular wellness apps that come highly recommended by practitioners. Whether it's to take you on an at-home meditation retreat or shed light on your sleep habits, these apps have your back.
+
+	
+Headspace
+With millions of users in over 190 countries, Headspace is a meditation app on a mission to improve the health and happiness of the world.
+Read more
+
+	
+MyFitnessPal
+MyFitnessPal makes it easy to log the meals you eat and the activities you do as quickly as possible for diet tracking.
+Read more
+
+	
+Oura Ring
+Using advanced sensor technology, the Oura Ring provides detailed feedback on sleep, activity, and readiness to help you meet your health goals.
+Read more
+
+Ready to tackle your wellness goals?
+
+*The statements made herein have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure, or prevent disease. If you have any concerns about your own health, you should always consult with a physician or healthcare professional.
+
+
+/////
+
+<!-- Jamal's Project -->
+
+<!-- MARVIN'S ROOM -->
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>Jamaal's Fullscript</title>
+  <style>
+    <!-- CSS Reset - Eric Myers -->
+    body {
+    	width:100%;
+      height:100%;
+      margin:0;
+      padding:0;
+    }
+    h1, h2, h3, h4, h5, h6, p, td, th {
+    	padding:0;
+      margin:0;
+    }
+  </style>
+</head>
+<body>
+  <!-- START WRAPPER TABLE -->
+  <table id="x_wrapper" width="600" cellpadding="0" cellspacing="0" border="0" align="center" style="margin:0 auto;">
+    
+    
+    <tr class="x_row">
+    	<td bgcolor="#88b146" style="padding-top:25px; padding-bottom:25px;">
+    		<center>
+          <img src="https://fullscript.com/wp-content/uploads/emails/images/fs-logo-white.png" alt="Fullscript" style="margin:0 auto; font-family:Arial; font-size:26px;" />
+        </center>
+        <h2 align="center" style="color:#ffffff; text-align:center; font-family:Arial; font-size:26px; font-weight:normal; margin:20px 0 0 0;">Tips to stay healthy during self-isolation</h2>
+    	</td>
+    </tr>
+    <!-- end: x_row -->
+    
+    <tr class="x_row">
+      <td>
+        <img src="https://fullscript.com/wp-content/uploads/emails/images/PatientComms_Hero_Isolation.png" width="100%" alt="Lady on cell phone" style="margin:0 auto; font-family:Arial; font-size:26px;" />
+      </td>
+    </tr>
+     <!-- end: x_row -->
+    
+  </table>
+  <!-- END WRAPPER TABLE -->
+</body>
+</html>
+
+
+
+
+
+
+  
+
+  
+<!--
+
+Styles:
+Blue color (footer): #3f4e5e
+Green color: #88b146
+Gray color (copy background): #f5f7fa
+Purple color (CTA): #783f67
+Font family: Arial
+Header font size: 26px
+Body font size: 14px
+Disclaimer font size (at bottom): 9px
+Font color: #404F5E
+h1 size: 27px
+h2 size: 16px
+
+Images:
+Fullscript logo: https://fullscript.com/wp-content/uploads/emails/images/fs-logo-white.png
+Header (lady): https://fullscript.com/wp-content/uploads/emails/images/PatientComms_Hero_Isolation.png
+Headspace icon: https://fullscript.com/wp-content/uploads/emails/images/headspace_icon.png
+Fitness pal icon: https://fullscript.com/wp-content/uploads/emails/images/MyFitnessPal_Logo.png
+Oura icon: https://fullscript.com/wp-content/uploads/emails/images/Oura-ring-logo.png
+Facebook icon: https://fullscript.com/wp-content/uploads/emails/images/facebook-white.png
+Twitter icon: https://fullscript.com/wp-content/uploads/emails/images/twitter-white.png
+Instagram icon: https://fullscript.com/wp-content/uploads/emails/images/instagram-white.png
+Pinterest icon: https://fullscript.com/wp-content/uploads/emails/images/pinterest-white.png
+
+Copy:
+Self-isolation can be tough. People around the world, all with different backgrounds and life experiences, are feeling the same sense of disconnection, anxiety, and uncertainty that comes with isolation.
+
+This unprecedented challenge also offers unique opportunities, like finally carving out some time for self-care. We’ve rounded up a series of lifestyle tips that you can practice to maintain and even improve your well-being, all while passing the time.
+
+Wellness apps for a little extra self-care
+We’re sharing some popular wellness apps that come highly recommended by practitioners. Whether it's to take you on an at-home meditation retreat or shed light on your sleep habits, these apps have your back.
+
+	
+Headspace
+With millions of users in over 190 countries, Headspace is a meditation app on a mission to improve the health and happiness of the world.
+Read more
+
+	
+MyFitnessPal
+MyFitnessPal makes it easy to log the meals you eat and the activities you do as quickly as possible for diet tracking.
+Read more
+
+	
+Oura Ring
+Using advanced sensor technology, the Oura Ring provides detailed feedback on sleep, activity, and readiness to help you meet your health goals.
+Read more
+
+Ready to tackle your wellness goals?
+
+*The statements made herein have not been evaluated by the Food and Drug Administration. Products are not intended to diagnose, treat, cure, or prevent disease. If you have any concerns about your own health, you should always consult with a physician or healthcare professional.
+
+

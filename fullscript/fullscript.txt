@@ -1,0 +1,23 @@
+Styles:
+Blue color (footer): #3f4e5e
+Green color: #88b146
+Gray color (copy background): #f5f7fa
+Purple color (CTA): #783f67
+Font family: Arial
+Header font size: 26px
+Body font size: 14px
+Disclaimer font size (at bottom): 9px
+Font color: #404F5E
+h1 size: 27px
+h2 size: 16px
+
+Images:
+Fullscript logo: https://fullscript.com/wp-content/uploads/emails/images/fs-logo-white.png
+Header (lady): https://fullscript.com/wp-content/uploads/emails/images/PatientComms_Hero_Isolation.png
+Headspace icon: https://fullscript.com/wp-content/uploads/emails/images/headspace_icon.png
+Fitness pal icon: https://fullscript.com/wp-content/uploads/emails/images/MyFitnessPal_Logo.png
+Oura icon: https://fullscript.com/wp-content/uploads/emails/images/Oura-ring-logo.png
+Facebook icon: https://fullscript.com/wp-content/uploads/emails/images/facebook-white.png
+Twitter icon: https://fullscript.com/wp-content/uploads/emails/images/twitter-white.png
+Instagram icon: https://fullscript.com/wp-content/uploads/emails/images/instagram-white.png
+Pinterest icon: https://fullscript.com/wp-content/uploads/emails/images/pinterest-white.png
